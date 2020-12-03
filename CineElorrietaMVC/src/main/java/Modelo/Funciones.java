@@ -4,8 +4,10 @@ public class Funciones {
 	
 	private int e;
 	private int y;
-	private int q;
 	private int r;
+	private int z;
+	private int w;
+	private int q;
 	public Funciones() {
 		
 	}
