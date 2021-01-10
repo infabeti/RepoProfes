@@ -6,7 +6,7 @@ import Vista.Vista;
 
 public class ControladorPanelBienvenida {
 
-	@SuppressWarnings("unused")
+//	@SuppressWarnings("unused")
 	private Modelo modelo;
 	private Vista vista;
 	private Controlador controlador;

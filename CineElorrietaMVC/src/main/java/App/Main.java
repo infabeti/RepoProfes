@@ -8,7 +8,7 @@ public class Main {
 	
 	private static Modelo modelo;
 	private static Vista vista;
-	@SuppressWarnings("unused")
+//	@SuppressWarnings("unused")
 	private static Controlador controlador;
 	
 	public static void main(String[] args) {
